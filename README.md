@@ -1,2 +1,1 @@
-# converterCh
-Created with CodeSandbox
+converterCh
